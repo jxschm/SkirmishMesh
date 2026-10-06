@@ -5,4 +5,7 @@ All you need to do is install the desktop app, flash the correct firmware to you
 Important:
 
 At the moment, there is no iOS version of the app, as I am trying to figure out a way to build an iOS app without paying for an Apple- certificate.
+
 Please always use the same firmware- and software-versions! Otherwise the firmware/software could crash or features won't work, as I am constantly adding features which are not implemented in old firm-/software-versions.
+
+If there are some errors, please try pressing the corresponding button again, switching the LoRa device off and back on and restarting the software. I am trying to remove all bugs, but it will take a while until that is done!
